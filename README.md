@@ -8,9 +8,11 @@
 - Unity 2020.3.25f1
 
 ## ゲーム画面
-![image](https://user-images.githubusercontent.com/10719941/147939610-411f29eb-58f6-463d-8f51-04a7481e9b6b.png)
+
+![Animator2D](https://user-images.githubusercontent.com/10719941/147942909-f6fe161b-2d9b-43ea-a947-9267343c9081.gif)
 
 ## 操作方法
+
 
 - 左矢印キーまたはA：左に移動
 - 右矢印キーまたはD：右に移動
